@@ -21710,9 +21710,9 @@ http://dibo.live:8080/live/Antonio1/Antonio/163476.m3u8
 http://dibo.live:8080/live/Antonio1/Antonio/65682.m3u8
 #EXTINF:-1,FR: ELEVEN SPORTS 1 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/127942.m3u8
-#EXTINF:-1,FR: ELEVEN SPORTS 2 HD
+#EXTINF:-1,FR: ELEVEN SPORTS 2 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/139511.m3u8
-#EXTINF:-1,FR: ELEVEN SPORTS 3
+#EXTINF:-1,FR: ELEVEN SPORTS 3 group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/152552.m3u8
 #EXTINF:-1,FR: EUROSPORT 1 FHD
 http://dibo.live:8080/live/Antonio1/Antonio/73680.m3u8
