@@ -1114,7 +1114,7 @@ https://sdm.telewebion.com/live/dena/playlist.m3u8
 https://waw2.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Deniz Postası TV (720p) [Not 24/7]
 http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/ar_dxtv_m.png" group-title="Sport",DeporTV [Not 24/7]
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/ar_dxtv_m.png" group-title="Sports",DeporTV [Not 24/7]
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
 #EXTINF:-1 tvg-id="Dersim62TV.tr" tvg-country="TR" tvg-language="" tvg-logo="http://dersim62.tv/wp-content/uploads/2016/05/3v3.jpg" group-title="",Dersim62 TV (720p)
 http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
@@ -15382,9 +15382,9 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ytimg.com/vi/JueWq1SOiwY/maxresdefault.jpg" group-title="",Beauty IQ
 https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="Sport",Bek Sports East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="Sports",Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="Sport",Bek Sports West
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="Sports",Bek Sports West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",Beto TV
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
@@ -15610,7 +15610,7 @@ http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
 http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="",CTN
 https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RZE3Pwf.png" group-title="Sport",Cycle World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RZE3Pwf.png" group-title="Sports",Cycle World
 https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Legislative",DC Council Channel
 https://video.oct.dc.gov/out/u/15_12.m3u8
@@ -15636,7 +15636,7 @@ https://nimble.dashstreams.net/onestudio/dreamtv/playlist.m3u8
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/9Xc7Q7S.jpg" group-title="",DUSTx
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" group-title="Sport",Edge Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" group-title="Sports",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://en.elbesharagtv.com/uploads/7/9/0/0/79001918/300x169_3_orig.png" group-title="",Elbeshara Tv
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
@@ -15648,11 +15648,11 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 https://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fGdHIGy.png" group-title="Religious",ESNE TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sports",ESPN 2
 https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",ESPN News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sports",ESPN News
 https://gma2.blab.email/espnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",ESPN U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sports",ESPN U
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/vTlQAIX.jpg" group-title="Entertainment",ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
@@ -15672,9 +15672,9 @@ http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
 https://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",Field & Stream
 https://a.jsrdn.com/broadcast/7536b84786/+0000/low/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sports",Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sports",Fight Sports
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
@@ -15692,7 +15692,7 @@ https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/master.m3u8
 https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Z5SATrd.png" group-title="News",Fox News Radio
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",FOX Sport HD 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sports",FOX Sport HD 1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
@@ -15710,7 +15710,7 @@ https://live-h1.frontlayer.net/fl592468/live/playlist.m3u8
 https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/kAYiaJS.png" group-title="",Golden TV
 https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",GOLF NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sports",GOLF NETWORK
 http://203.162.235.41:16924
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7vQrPvk.png" group-title="Religious",Gospel Truth TV
 https://bstna.tulix.tv/live/bs_2m/index.m3u8
@@ -15814,9 +15814,9 @@ https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/1qJkLDZ.png" group-title="",Mission TV (US)
 http://stream.missiontv.com:1935/live/missiontv_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="MLB Network: Intentional Talk" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/oDOpMph.png" group-title="Sport",MLB Network
+#EXTINF:-1 tvg-id="MLB Network: Intentional Talk" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/oDOpMph.png" group-title="Sports",MLB Network
 https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-id="MLS" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6t7x61s.png" group-title="Sport",MLS
+#EXTINF:-1 tvg-id="MLS" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6t7x61s.png" group-title="Sports",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",MMN
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
@@ -15898,11 +15898,11 @@ http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
 https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" group-title="Local",Olelo 55
 https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",Olympic Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sports",Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel (HD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sports",Olympic Channel (HD)
 https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel (UHD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sports",Olympic Channel (UHD)
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/25535/olympic_channel_440x330_NETWORK_LARGE_440_330.png" group-title="",Olympic Channel 3
 https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
@@ -15978,9 +15978,9 @@ https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
 https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jb5NwNN.png" group-title="",Shout Factory TV
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
-#EXTINF:-1 tvg-id="UK EDGE Sport" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" group-title="Sport",SPORT | EDGE Sport
+#EXTINF:-1 tvg-id="UK EDGE Sport" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" group-title="Sports",SPORT | EDGE Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" group-title="Sport",Sportskool
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" group-title="Sports",Sportskool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
@@ -16016,7 +16016,7 @@ https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xMN1q8P.jpg" group-title="",SubRang TV
 https://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",Super Tennis
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sports",Super Tennis
 https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",TAG TV
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
@@ -16110,7 +16110,7 @@ https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 https://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/naYszow.jpg" group-title="",Unidentified
 https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="Sport",US SPORT Tennis Plus 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="Sports",US SPORT Tennis Plus 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="Local",Victorville | KVVB-TV 33
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
@@ -21632,84 +21632,83 @@ https://jukin-weatherspy-2-in.samsung.wurl.com/manifest/playlist.m3u8
 https://jukin-weatherspy-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="WeatherSpyUK.us" group-title="Weather" tvg-logo="https://i.imgur.com/SAZF1cq.jpg",WeatherSpy (UK)
 https://jukin-weatherspy-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTM3U
-#EXTINF:-1,SPORT: TR - beIN Sports 1 FHD
+#EXTINF:-1,SPORT: TR - beIN Sports 1 FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198571.m3u8
-#EXTINF:-1,SPORT: TR - beIN Sports 2 FHD
+#EXTINF:-1,SPORT: TR - beIN Sports 2 FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198572.m3u8
-#EXTINF:-1,SPORT: TR - beIN Sports 4 FHD
+#EXTINF:-1,SPORT: TR - beIN Sports 4 FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198574.m3u8
-#EXTINF:-1,SPORT: TR - beIN Sports 3 HD
+#EXTINF:-1,SPORT: TR - beIN Sports 3 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198573.m3u8
-#EXTINF:-1,SPORT: TR - tivibu spor 1 FHD
+#EXTINF:-1,SPORT: TR - tivibu spor 1 FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198477.m3u8
-#EXTINF:-1,SPORT: TR - tivibu spor 2 FHD
+#EXTINF:-1,SPORT: TR - tivibu spor 2 FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198478.m3u8
-#EXTINF:-1,SPORT: TR - tivibu spor 3 FHD
+#EXTINF:-1,SPORT: TR - tivibu spor 3 FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198479.m3u8
-#EXTINF:-1,SPORT: UK - BOX NATION FHD
+#EXTINF:-1,SPORT: UK - BOX NATION FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197922.m3u8
-#EXTINF:-1,SPORT: UK - BT Sport ESPN FHD
+#EXTINF:-1,SPORT: UK - BT Sport ESPN FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/93488.m3u8
-#EXTINF:-1,SPORT: UK - EIR SPORT 1 FHD
+#EXTINF:-1,SPORT: UK - EIR SPORT 1 FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198581.m3u8
-#EXTINF:-1,SPORT: UK - EIR SPORT 2 FHD
+#EXTINF:-1,SPORT: UK - EIR SPORT 2 FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198185.m3u8
-#EXTINF:-1,SPORT: UK - ELEVEN SPORTS 1 FHD
+#EXTINF:-1,SPORT: UK - ELEVEN SPORTS 1 FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/137211.m3u8
-#EXTINF:-1,SPORT: UK - EURONEWS HD
+#EXTINF:-1,SPORT: UK - EURONEWS HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/205166.m3u8
-#EXTINF:-1,SPORT: UK - EUROSPORT 1 FHD
+#EXTINF:-1,SPORT: UK - EUROSPORT 1 FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198103.m3u8
-#EXTINF:-1,SPORT: UK - EUROSPORT 2 FHD
+#EXTINF:-1,SPORT: UK - EUROSPORT 2 FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198104.m3u8
-#EXTINF:-1,SPORT: UK - Fightbox HD
+#EXTINF:-1,SPORT: UK - Fightbox HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/205222.m3u8
-#EXTINF:-1,SPORT: UK - Liverpool FC HD
+#EXTINF:-1,SPORT: UK - Liverpool FC HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/206095.m3u8
-#EXTINF:-1,SPORT: UK - Premiere Sports
+#EXTINF:-1,SPORT: UK - Premiere Sports group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/206105.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Arena HD
+#EXTINF:-1,SPORT: UK - Sky Sports Arena HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197949.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Cricket HD
+#EXTINF:-1,SPORT: UK - Sky Sports Cricket HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197952.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports F1 HD
+#EXTINF:-1,SPORT: UK - Sky Sports F1 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197954.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Football HD
+#EXTINF:-1,SPORT: UK - Sky Sports Football HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197956.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Golf HD
+#EXTINF:-1,SPORT: UK - Sky Sports Golf HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197958.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Main Event HD
+#EXTINF:-1,SPORT: UK - Sky Sports Main Event HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197960.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Mix HD
+#EXTINF:-1,SPORT: UK - Sky Sports Mix HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197962.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports News HD
+#EXTINF:-1,SPORT: UK - Sky Sports News HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197964.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Premier League HD
+#EXTINF:-1,SPORT: UK - Sky Sports Premier League HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197966.m3u8
-#EXTINF:-1,SPORT: US - beIN Sports HD
+#EXTINF:-1,SPORT: US - beIN Sports HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198539.m3u8
-#EXTINF:-1,SPORT: US - ELEVEN SPORTS HD
+#EXTINF:-1,SPORT: US - ELEVEN SPORTS HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198544.m3u8
-#EXTINF:-1,SPORT: US - FOX SPORTS 1 HD
+#EXTINF:-1,SPORT: US - FOX SPORTS 1 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198122.m3u8
-#EXTINF:-1,SPORT: US - FOX SPORTS 2 HD
+#EXTINF:-1,SPORT: US - FOX SPORTS 2 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198123.m3u8
-#EXTINF:-1,SPORT: US - FOX SPORTS 3
+#EXTINF:-1,SPORT: US - FOX SPORTS 3 group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198124.m3u8
-#EXTINF:-1,SPORT: US - MLB NETWORK HD
+#EXTINF:-1,SPORT: US - MLB NETWORK HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198549.m3u8
-#EXTINF:-1,SPORT: US - NFL Network FHD
+#EXTINF:-1,SPORT: US - NFL Network FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198121.m3u8
-#EXTINF:-1,SPORT: US - NHL NETWORK HD
+#EXTINF:-1,SPORT: US - NHL NETWORK HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198552.m3u8
-#EXTINF:-1,SPORT: US - Willow HD
+#EXTINF:-1,SPORT: US - Willow HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198114.m3u8
-#EXTINF:-1,FR: BFM SPORT HD
+#EXTINF:-1,FR: BFM SPORT HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/163476.m3u8
-#EXTINF:-1,FR: CANAL+ SPORT FHD
+#EXTINF:-1,FR: CANAL+ SPORT FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/65682.m3u8
-#EXTINF:-1,FR: ELEVEN SPORTS 1 HD
+#EXTINF:-1,FR: ELEVEN SPORTS 1 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/127942.m3u8
 #EXTINF:-1,FR: ELEVEN SPORTS 2 HD
 http://dibo.live:8080/live/Antonio1/Antonio/139511.m3u8
@@ -21929,87 +21928,87 @@ http://dibo.live:8080/live/Antonio1/Antonio/114850.m3u8
 http://dibo.live:8080/live/Antonio1/Antonio/114847.m3u8
 #EXTINF:-1,PT: SPORT TV FHD
 http://dibo.live:8080/live/Antonio1/Antonio/210314.m3u8
-#EXTINF:-1,PT: SPORT TV NBA
+#EXTINF:-1,PT: SPORT TV NBA group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198083.m3u8
-#EXTINF:-1,PT: SPORTING FHD
+#EXTINF:-1,PT: SPORTING FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/65568.m3u8
-#EXTINF:-1,DE: Europort 2 Xtra FHD
+#EXTINF:-1,DE: Europort 2 Xtra FHD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/86118.m3u8
-#EXTINF:-1,DE: EUROSPORT
+#EXTINF:-1,DE: EUROSPORT group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/73546.m3u8
-#EXTINF:-1,DE: EUROSPORT 1 HD
+#EXTINF:-1,DE: EUROSPORT 1 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/86119.m3u8
-#EXTINF:-1,DE: EUROSPORT 2 HD
+#EXTINF:-1,DE: EUROSPORT 2 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/73450.m3u8
-#EXTINF:-1,DE: ORF Sport+ HD (AU)
+#EXTINF:-1,DE: ORF Sport+ HD (AU) group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/64770.m3u8
-#EXTINF:-1,DE: Sky Sport FHD (AT)
+#EXTINF:-1,DE: Sky Sport FHD (AT) group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/210068.m3u8
-#EXTINF:-1,DE: Sky Sport HD (AU)
+#EXTINF:-1,DE: Sky Sport HD (AU) group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/156525.m3u8
-#EXTINF:-1,DE: Sky Sport News HD
+#EXTINF:-1,DE: Sky Sport News HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/100326.m3u8
-#EXTINF:-1,DE: Sport 1 HD
+#EXTINF:-1,DE: Sport 1 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/131252.m3u8
-#EXTINF:-1,DE: Sport 1 US HD
+#EXTINF:-1,DE: Sport 1 US HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/93211.m3u8
-#EXTINF:-1,DE: SPORT 1+ HD
+#EXTINF:-1,DE: SPORT 1+ HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/64771.m3u8
-#EXTINF:-1,DE: Sport Digital HD
+#EXTINF:-1,DE: Sport Digital HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/62066.m3u8
-#EXTINF:-1,DE: Telekom - DEL Sport 1
+#EXTINF:-1,DE: Telekom - DEL Sport 1 group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/93361.m3u8
-#EXTINF:-1,DE: Telekom - DEL Sport 5
+#EXTINF:-1,DE: Telekom - DEL Sport 5 group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/208405.m3u8
-#EXTINF:-1,DE: Telekom - DEL Sport 6
+#EXTINF:-1,DE: Telekom - DEL Sport 6 group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/208406.m3u8
-#EXTINF:-1,DE: Telekom - DEL Sport 7
+#EXTINF:-1,DE: Telekom - DEL Sport 7 group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/208407.m3u8
-#EXTINF:-1,DE: Telekom DEL Sport 2 HD
+#EXTINF:-1,DE: Telekom DEL Sport 2 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/208874.m3u8
-#EXTINF:-1,DE: Telekom DEL Sport 3 HD
+#EXTINF:-1,DE: Telekom DEL Sport 3 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/208875.m3u8
-#EXTINF:-1,DE: Telekom DEL Sport 4 HD
+#EXTINF:-1,DE: Telekom DEL Sport 4 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/208876.m3u8
-#EXTINF:-1,DE: Telekom Sport 2
+#EXTINF:-1,DE: Telekom Sport 2 group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/209310.m3u8
-#EXTINF:-1,FR: KOMBAT SPORTS HD
+#EXTINF:-1,FR: KOMBAT SPORTS HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/98129.m3u8
-#EXTINF:-1,FR: KTO HD
+#EXTINF:-1,FR: KTO HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/91899.m3u8
-#EXTINF:-1,FR: L EQUIPE 21
+#EXTINF:-1,FR: L EQUIPE 21 group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/208219.m3u8
-#EXTINF:-1,FR: L EQUIPE HD
+#EXTINF:-1,FR: L EQUIPE HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/139099.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 1 HD
+#EXTINF:-1,SPORT: AR - beIN Sports 1 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197968.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 2 HD
+#EXTINF:-1,SPORT: AR - beIN Sports 2 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197980.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 3 HD
+#EXTINF:-1,SPORT: AR - beIN Sports 3 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197982.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 4 HD
+#EXTINF:-1,SPORT: AR - beIN Sports 4 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197984.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 5 HD
+#EXTINF:-1,SPORT: AR - beIN Sports 5 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198060.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 6 HD
+#EXTINF:-1,SPORT: AR - beIN Sports 6 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197987.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 7 HD
+#EXTINF:-1,SPORT: AR - beIN Sports 7 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197989.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 8 HD
+#EXTINF:-1,SPORT: AR - beIN Sports 8 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197991.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 9 HD
+#EXTINF:-1,SPORT: AR - beIN Sports 9 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198062.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 10 HD
+#EXTINF:-1,SPORT: AR - beIN Sports 10 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197970.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 11 HD
+#EXTINF:-1,SPORT: AR - beIN Sports 11 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197971.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 12 HD
+#EXTINF:-1,SPORT: AR - beIN Sports 12 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197974.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 13 HD
+#EXTINF:-1,SPORT: AR - beIN Sports 13 HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197975.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports NBA HD
+#EXTINF:-1,SPORT: AR - beIN Sports NBA HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/197999.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports News HD
+#EXTINF:-1,SPORT: AR - beIN Sports News HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/198000.m3u8
 #EXTINF:-1,SPORT: AR - beoutQ 2 HD
 http://dibo.live:8080/live/Antonio1/Antonio/198002.m3u8
