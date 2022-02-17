@@ -22790,3 +22790,73 @@ http://dibo.live:8080/live/Antonio1/Antonio/106098.m3u8
 http://dibo.live:8080/live/Antonio1/Antonio/122937.m3u8
 #EXTINF:-1,TR: SMART SPORT HD group-title="Sports"
 http://dibo.live:8080/live/Antonio1/Antonio/76318.m3u8
+#EXTINF:0 tvg-country=" tvg-logo="" group-title="Caribbean",iptvcat.com
+https://list.iptvcat.com/assets/videos/lazycat-iptvcat.com.mp4
+#EXTINF:0 tvg-country="barbados" tvg-logo="https://dailyfreeiptvlist.com/bb" group-title="Caribbean",BB | CBC TV 8, CBC TV 8
+https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/rewind-3600.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="barbados" tvg-logo="https://dailyfreeiptvlist.com/bb" group-title="Caribbean",Trident 10 TV
+http://161.0.157.9/PLTV/88888888/224/3221226832/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="dominican-republic" tvg-logo="https://dailyfreeiptvlist.com/do" group-title="Caribbean",Canal 4 RD
+https://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="dominican-republic" tvg-logo="https://dailyfreeiptvlist.com/do" group-title="Caribbean",Canal 4 RD
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="dominican-republic" tvg-logo="https://dailyfreeiptvlist.com/do" group-title="Caribbean",Canal Amé 47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="dominican-republic" tvg-logo="https://dailyfreeiptvlist.com/do" group-title="Caribbean",Microvision 10
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="dominican-republic" tvg-logo="https://dailyfreeiptvlist.com/do" group-title="Caribbean",Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="dominican-republic" tvg-logo="https://dailyfreeiptvlist.com/do" group-title="Caribbean",Super TV 55 Santiago
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="dominican-republic" tvg-logo="https://dailyfreeiptvlist.com/do" group-title="Caribbean",TELECENTRO 13
+http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="haiti" tvg-logo="https://dailyfreeiptvlist.com/ht" group-title="Caribbean",LC TV
+http://rv.therevenge.co:80/565656/565656/84869?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="haiti" tvg-logo="https://dailyfreeiptvlist.com/ht" group-title="Caribbean",LC TV
+http://rv.therevenge.co:80/live/242424/242424/84869.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="haiti" tvg-logo="https://dailyfreeiptvlist.com/ht" group-title="Caribbean",NAGO TV
+http://rv.therevenge.co:80/565656/565656/84871?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="haiti" tvg-logo="https://dailyfreeiptvlist.com/ht" group-title="Caribbean",NAGO TV
+http://185.71.64.167:80/307245103371/307245103371/84871?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="haiti" tvg-logo="https://dailyfreeiptvlist.com/ht" group-title="Caribbean",NAGO TV
+http://rv.therevenge.co:80/live/11223344/11223344/84871.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="haiti" tvg-logo="https://dailyfreeiptvlist.com/ht" group-title="Caribbean",Radio TeleBoston (USA)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="haiti" tvg-logo="https://dailyfreeiptvlist.com/ht" group-title="Caribbean",TELE BOSTON
+http://rv.therevenge.co:80/live/242424/242424/84872.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",CCI Channel
+http://stream.innovandote.com:1935/cci/cci/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",Campus TV
+http://st2.worldkast.com/8004/8004/chunklist_w733100229.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",Campus TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",Campus TV
+http://st2.worldkast.com/8004/8004/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",Cholusat Sur 36
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",Ebenezer TV
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2_source/live.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",Ebenezer TV
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",Sercano TV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848000.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",TEN Canal 10
+http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/chunklist_w517207077_b1848000.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",Teleceiba Canal 7
+http://bit.ly/2NLhkKX?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="honduras" tvg-logo="https://dailyfreeiptvlist.com/hn" group-title="Caribbean",Teleceiba Canal 7
+http://190.11.224.14:8134/liveevent.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/fr" group-title="Caribbean",Bblack Caribbean
+http://tvog.eu:8080/ibrahim/08.03.2020/119080?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/fr" group-title="Caribbean",TRACE Caribbean HD
+http://tvog.eu:8080/ibrahim/08.03.2020/119609?checkedby:dailyfreeiptvlist.com
